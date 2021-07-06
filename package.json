@@ -4,9 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "server-dev": "cross-env NODE_ENV=prod nodemon server/app.js",
-    "client-dev": "npm start --prefix client",
-    "start": "concurrently \"npm run server-dev\" \"npm run client-dev\"",
+    "start": "cross-env NODE_ENV=prod nodemon server/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "NVB",
