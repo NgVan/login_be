@@ -23,7 +23,7 @@ app.use(express.json())
 app.use(morgan('dev'))
 
 // Routes
-app.use('/users', require('./router/users'))
+app.use('/users', require('./server/router/users'))
 
 // Run app
 const port = process.env.PORT || 3000;
