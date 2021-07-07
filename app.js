@@ -9,7 +9,7 @@ const cors = require('cors');
 const app = express();
 
 // Connect mongoose database
-mongoose.connect("mongodb://localhost/authAPI",
+mongoose.connect("mongodb+srv://nvb:smilelacuoi@login-project.j5k04.mongodb.net/loginDB?retryWrites=true&w=majority",
     { 
         useNewUrlParser: true,
         useUnifiedTopology: true 
