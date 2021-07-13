@@ -23,4 +23,7 @@ router.route('/signin')
 router.route('/secret')
     .get(passport.authenticate('jwt', {session: false}), userController.secret);
 
+router.route('/activate/:tokenID')
+    .get(userController.confirmEmail);
+
 module.exports = router;
