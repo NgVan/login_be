@@ -80,7 +80,7 @@ const signUp = async (req, res, next) => {
     const token = encodeToken(newUser._id);
     res.setHeader("authentication", token);
 
-    const url = `http://localhost:3000/users/activate/${token}`
+    const url = `https://be-nvb-login.herokuapp.com/users/activate/${token}`
 
     sendEmail(email, url, "Verify your email address");
 
