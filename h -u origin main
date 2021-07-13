@@ -1,0 +1,41 @@
+[33mcommit 265cbb1db5c99df64c663454a8183c4c0359282f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: NgVan <ngvanbinh1905@gmail.com>
+Date:   Tue Jul 13 19:03:57 2021 +0700
+
+    add verify email when sign up
+
+[33mcommit 4a6ae8c1dee904a7a4f1a4921aa76e425ab12112[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: NgVan <ngvanbinh1905@gmail.com>
+Date:   Wed Jul 7 22:13:39 2021 +0700
+
+    change to mongodb cloud
+
+[33mcommit 3a998403bc41dfd0e9167be4703229a39afb25cc[m
+Author: NgVan <ngvanbinh1905@gmail.com>
+Date:   Wed Jul 7 00:03:39 2021 +0700
+
+    change app.js
+
+[33mcommit 17b780d51aa63846bb86e70d960fea6507d43f6a[m
+Author: NgVan <ngvanbinh1905@gmail.com>
+Date:   Tue Jul 6 23:55:36 2021 +0700
+
+    change app.js
+
+[33mcommit c54d20e671648ac3391fdd4c75e2e15064ad1333[m
+Author: NgVan <ngvanbinh1905@gmail.com>
+Date:   Tue Jul 6 23:52:30 2021 +0700
+
+    change app.js
+
+[33mcommit aeeebb1e820bb2d54a97b68dd067f5ef01fefe66[m
+Author: NgVan <ngvanbinh1905@gmail.com>
+Date:   Tue Jul 6 23:40:01 2021 +0700
+
+    edit package.json
+
+[33mcommit bb4f473c07ad06348b7c86bcb0161de689c53597[m
+Author: NgVan <ngvanbinh1905@gmail.com>
+Date:   Tue Jul 6 23:29:28 2021 +0700
+
+    commit BE
